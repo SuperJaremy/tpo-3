@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0506a394-0f70-4b04-9169-37275f585c06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab3/AnalysisPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab3/MainPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AnalysisPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/RankPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/util/DriverSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/util/Props.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/credentials.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29WQiIrSYbmY3Ter4A34NXlV8Ed" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/s_jar/IdeaProjects/lab3/src/test/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/test/java/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainPageTest">
+    <configuration name="AnalysisPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.lab3" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab3.AnalysisPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnalysisPageTest.testAuthorizedAccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.lab3" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab3.AnalysisPageTest" />
+      <option name="METHOD_NAME" value="testAuthorizedAccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnalysisPageTest.testUnauthorizedAccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.lab3" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab3.AnalysisPageTest" />
+      <option name="METHOD_NAME" value="testUnauthorizedAccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.lab3" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab3.MainPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.testSiteAnalysis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.lab3" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab3.MainPageTest" />
+      <option name="METHOD_NAME" value="testSiteAnalysis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainPageTest" />
+        <item itemvalue="JUnit.AnalysisPageTest.testAuthorizedAccess" />
+        <item itemvalue="JUnit.AnalysisPageTest" />
+        <item itemvalue="JUnit.AnalysisPageTest.testUnauthorizedAccess" />
+        <item itemvalue="JUnit.MainPageTest.testSiteAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastFrameworkName" value="Selenium" />
+    <option name="lastLanguageId" value="JAVA" />
+    <option name="lastUrl" value="https://xtool.ru/analyze/_itmo.ru/" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0506a394-0f70-4b04-9169-37275f585c06" name="Changes" comment="" />
+      <created>1653226487061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653226487061</updated>
+      <workItem from="1653226488344" duration="7735000" />
+      <workItem from="1654424671165" duration="15439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
